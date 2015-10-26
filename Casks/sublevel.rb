@@ -7,7 +7,7 @@ cask :v1 => 'sublevel' do
   appcast 'https://github.com/lucianmarin/sublevel-osx/releases.atom'
   name 'Sublevel'
   homepage 'https://sublevel.net/'
-  license :unknown
+  license :mit
 
   app 'Sublevel.app'
 end
