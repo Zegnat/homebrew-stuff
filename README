@@ -1,0 +1,9 @@
+# Homebrew Stuff
+
+A repository for [formulæ](http://brew.sh) and [casks](http://caskroom.io).
+
+## Use
+
+To use, tap it:
+
+    brew tap zegnat/stuff
